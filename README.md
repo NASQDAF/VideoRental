@@ -1,2 +1,2 @@
 # VideoRental
- Java soft for renting videos
+ Java "easy" soft for renting videos
